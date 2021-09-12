@@ -5,7 +5,7 @@
 This is an application that will help list and preview news articles from various sources using the news apikey.One can view the headlines and can navigate into their desired News field of interest i.e Technology,Business,Science,Entertainment and more.   
 ## Setup/Installation Requirements
 * Fork/Clone the repository
-* ``` https://github.com/MosesGakuhi1857/Github-project.git ```
+* ``` https://github.com/MosesGakuhi1857/NewsAPI.git```
 * Open your project on your favorite editor
 * Open project on Live Server
 
